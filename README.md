@@ -1,2 +1,2 @@
 # Steel-Surface-Defect-Classifier
-Image analytics-based solution to classify surface defects in sheet steel.
+Surface defects in sheet steel poses quality and performance risks. Classifying various defects allows to quickly identify and remove the causes of their occurrence. This Transfer Learning-based solution identifies three classes of surface defects: holes, peels, and others (cracks, scratches, etc.). This solution analyses the input image and provides probability scores for the three defect classes. This can assist metal products manufacturing companies to improve their quality control process. 
